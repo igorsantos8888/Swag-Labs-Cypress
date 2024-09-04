@@ -1,8 +1,8 @@
-Sauce Demo Automation
-Este projeto contém scripts de automação de testes para o site Sauce Demo, uma aplicação web de comércio eletrônico usada para fins de teste. O objetivo é automatizar casos de teste comuns para garantir que as funcionalidades principais do site estejam funcionando conforme o esperado.
+# Sauce Demo Automation
+# Este projeto contém scripts de automação de testes para o site Sauce Demo, uma aplicação web de comércio eletrônico usada para fins de teste. O objetivo é automatizar casos de teste comuns para garantir que as funcionalidades principais do site estejam funcionando conforme o esperado.
 
-Visão Geral
-Sauce Demo é um site fictício que permite que usuários interajam com um carrinho de compras, façam login, e completem uma compra. Este projeto usa ferramentas de automação para testar essas funcionalidades de maneira eficiente.
+# Visão Geral
+# Sauce Demo é um site fictício que permite que usuários interajam com um carrinho de compras, façam login, e completem uma compra. Este projeto usa ferramentas de automação para testar essas funcionalidades de maneira eficiente.
 
 Funcionalidades Automatizadas
 Login: Testes para verificar se o processo de login funciona com credenciais válidas e inválidas.
